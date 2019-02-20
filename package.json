@@ -2,13 +2,13 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
-    "del": "^3.0.0",
     "jquery": "^2.2.3",
     "normalize.css": "^4.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "browser-sync": "^2.12.8",
+    "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.1",
     "gulp-rename": "^1.2.2",
