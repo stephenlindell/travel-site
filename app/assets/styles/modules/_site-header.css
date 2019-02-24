@@ -38,7 +38,11 @@
       transform: translateX(0);
 
       .site-header--dark & {
+<<<<<<< HEAD
         transform: scale(.55);
+=======
+        transform: scale(.56);
+>>>>>>> browser-support
       }
     }
   }
